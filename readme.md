@@ -1,3 +1,8 @@
+# Disclaimer!
+Hello! These files were created and organized by Wes Bos.  I do not take any credit for them, I have simply re-ordered the lesson folders with numbers so they are nicely in order.
+This is to make it easier for Web Development students to follow along with the Wes Bos "What the Flexbox" video tutorials.
+Please check out Wes Bos' links below!
+
 # What The Flexbox?!
 
 ![](https://flexbox.io/images/WTF/share.png)
